@@ -7,6 +7,11 @@
     text-align: center;
     background-color: black;
     color: white;
+    font-size: 600%;
+}
+
+li {
+    text-align: center;
 }
 
 a {

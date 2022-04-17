@@ -4,6 +4,10 @@
     color: white;
 }
 
+a {
+    text-decoration: none;
+}
+
 body {
     font-family: 'Lora', serif;
 }

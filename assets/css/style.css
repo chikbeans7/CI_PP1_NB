@@ -3,6 +3,7 @@
     padding: 0;
     border: none;
 }
+
 #banner {
     text-align: center;
     background-color: black;
@@ -10,8 +11,18 @@
     font-size: 600%;
 }
 
-li {
+nav ul {
     text-align: center;
+    list-style: none;
+
+}
+
+nav li {
+    display: inline-block;
+}
+
+li a {
+    color: black;
 }
 
 a {

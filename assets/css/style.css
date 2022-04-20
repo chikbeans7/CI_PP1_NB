@@ -4,7 +4,16 @@
     border: none;
 }
 
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Lora', serif;
+}
+
 #banner {
+    letter-spacing: 5px;
     text-align: center;
     background-color: black;
     color: white;
@@ -12,6 +21,7 @@
 }
 
 nav ul {
+    height: 100px;
     background-color: grey;
     text-align: center;
     list-style: none;
@@ -19,7 +29,9 @@ nav ul {
 }
 
 nav li {
-    padding: 25px;
+    position: relative;
+    bottom: 20px;
+    padding: 50px;
     font-size: 150%;
     display: inline-block;
 }
@@ -28,10 +40,3 @@ li a {
     color: black;
 }
 
-a {
-    text-decoration: none;
-}
-
-body {
-    font-family: 'Lora', serif;
-}

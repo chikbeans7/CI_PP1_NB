@@ -13,6 +13,7 @@ body {
 }
 
 #banner {
+    line-height: 200px;
     letter-spacing: 5px;
     text-align: center;
     background-color: black;
@@ -38,5 +39,10 @@ nav li {
 
 li a {
     color: black;
+}
+
+li a:hover {
+    background-color: black;
+    color: white;
 }
 

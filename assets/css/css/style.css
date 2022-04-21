@@ -47,3 +47,9 @@ li a:hover {
     color: white;
 }
 
+#descrip-image {
+    height: 400px;
+    width: 400px;
+    background: url(../images/napoleon.jpg) no repeat;
+}
+

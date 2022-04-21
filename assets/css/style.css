@@ -48,8 +48,8 @@ li a:hover {
 }
 
 #descrip-image {
-    height: 400px;
-    width: 400px;
-    background: url(../images/napoleon.jpg) no repeat;
+    height: 500px;
+    width: 500px;
+    background: url('../images/napoleon.jpg');
 }
 

@@ -48,13 +48,19 @@ li a:hover {
 }
 
 #brief-descrip {
-    display: inline-block;
     width: 100%;
 }
 
+#descrip-text {
+    display: inline-block;
+    font-size: 150%
+}
+
 #descrip-image {
+    display: inline;
     height: 300px; 
     width: 300px; 
     background: url('../images/napoleon2.jpg') center center/cover no-repeat;
+    float: right;
 }
 

@@ -47,9 +47,14 @@ li a:hover {
     color: white;
 }
 
+#brief-descrip {
+    display: inline-block;
+    width: 100%;
+}
+
 #descrip-image {
-    height: 600px; 
-    width: 600px; 
-    background: url('../images/napoleon2.jpg') center right no-repeat;
+    height: 300px; 
+    width: 300px; 
+    background: url('../images/napoleon2.jpg') center center/cover no-repeat;
 }
 

@@ -57,10 +57,9 @@ li a:hover {
 }
 
 #descrip-image {
-    display: inline;
-    height: 300px; 
-    width: 300px; 
+    height: 350px; 
+    width: 350px; 
     background: url('../images/napoleon2.jpg') center center/cover no-repeat;
-    float: right;
+    margin-left: 300px;
 }
 

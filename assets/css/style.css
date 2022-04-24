@@ -49,11 +49,11 @@ li a:hover, #current {
 
 .information {
     width: 100%;
+    font-size: 150%
 }
 
 #descrip-text {
     display: inline-block;
-    font-size: 150%
 }
 
 #descrip-image {

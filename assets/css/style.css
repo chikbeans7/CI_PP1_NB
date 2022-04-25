@@ -53,6 +53,7 @@ li a:hover, #current {
 }
 
 #descrip-text {
+    width: 70%;
     display: inline-block;
 }
 
@@ -60,7 +61,7 @@ li a:hover, #current {
     height: 350px; 
     width: 350px; 
     background: url('../images/napoleon2.jpg') center center/cover no-repeat;
-    margin-left: 300px;
+    float: right;
 }
 
 #childhood {

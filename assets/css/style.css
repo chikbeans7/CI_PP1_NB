@@ -57,13 +57,13 @@ li a:hover, #current {
 }
 
 #descrip-text {
-    width: 70%;
+    width: 62.5%;
     display: inline-block;
 }
 
 #descrip-image {
-    height: 350px; 
-    width: 350px; 
+    height: 500px; 
+    width: 37.5%; 
     background: url('../images/napoleon2.jpg') center center/cover no-repeat;
     float: right;
 }

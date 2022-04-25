@@ -63,3 +63,14 @@ li a:hover, #current {
     margin-left: 300px;
 }
 
+#childhood {
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+
+#interests {
+    width: 50%;
+    text-align: center;
+    float: right;
+}

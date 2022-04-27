@@ -87,7 +87,7 @@ li a:hover, #current {
 }
 
 #facts{
-    padding-left: 100px;
+    margin-left: 1em;
     text-align: left;
     list-style-type: circle;
 }

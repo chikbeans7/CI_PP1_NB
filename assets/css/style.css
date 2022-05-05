@@ -70,7 +70,7 @@ li a:hover, #current {
 }
 
 #descrip-image {
-    height: 525px; 
+    height: 520px; 
     width: 37.5%; 
     background: url('../images/napoleon3.jpg') center center/cover no-repeat;
     float: right;
@@ -94,6 +94,12 @@ li a:hover, #current {
 
 footer {
     font-weight: bold;
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    
 }
 
 @media screen and (max-width: 600px) {

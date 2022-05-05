@@ -96,9 +96,10 @@ footer {
     font-weight: bold;
     position: relative;
     bottom: 0;
-    height: 50px;
     width: 100%;
     text-align: center;
+    padding: 1em;
+    word-spacing: 1em;
     
 }
 

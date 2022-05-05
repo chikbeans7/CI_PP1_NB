@@ -94,9 +94,6 @@ li a:hover, #current {
 
 footer {
     font-weight: bold;
-    position: absolute;
-    bottom: 0;
-    
 }
 
 @media screen and (max-width: 600px) {

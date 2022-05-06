@@ -103,6 +103,10 @@ footer {
     background-color:rgb(1, 1, 75);
 }
 
+footer > a {
+    color: white;
+}
+
 @media screen and (max-width: 600px) {
     body {
         font-size: 1rem;

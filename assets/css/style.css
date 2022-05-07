@@ -77,11 +77,13 @@ li a:hover, #current {
 }
 
 #childhood {
-    text-align: left;
+    width: 50%;
+    float: left;
 }
 
 #interests {
-    text-align: right;
+    width: 50%;
+    float: right;
 }
 
 #facts{
@@ -92,8 +94,6 @@ li a:hover, #current {
 
 footer {
     font-weight: bold;
-    position: relative;
-    bottom: 0;
     width: 100%;
     text-align: center;
     padding: 1em;

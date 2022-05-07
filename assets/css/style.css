@@ -77,13 +77,11 @@ li a:hover, #current {
 }
 
 #childhood {
-    width: 50%;
-    float: left;
+    text-align: left;
 }
 
 #interests {
-    width: 50%;
-    float: right;
+    text-align: right;
 }
 
 #facts{

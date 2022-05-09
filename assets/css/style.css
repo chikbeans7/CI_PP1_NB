@@ -103,9 +103,17 @@ footer > a {
     color: white;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
     body {
-        font-size: 1rem;
+        font-size: 0.75rem;
+    }
+
+    #banner {
+        letter-spacing: 1px;
+    }
+
+    nav li {
+        padding: 0.5em
     }
 
     .information {

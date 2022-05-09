@@ -103,9 +103,9 @@ footer > a {
     color: white;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 390px) {
     body {
-        font-size: 0.75rem;
+        font-size: 0.4rem;
     }
 
     #banner {
@@ -113,11 +113,12 @@ footer > a {
     }
 
     nav li {
-        padding: 0.35em
+        font-size: 0.6em;
+        padding: 0.25em
     }
 
     .information {
-        font-size: 1.1em;
+        font-size: 0.75em;
     }
 
     iframe {
@@ -128,13 +129,22 @@ footer > a {
 
 @media screen and (max-width: 840px) {
     body{
-        font-size: 1.4rem;
+        font-size: 1.5rem;
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 630px) {
     body{
         font-size: 1.2rem;
+    }
+
+    nav li {
+        font-size: 0.7em;
+        padding: 0.25em
+    }
+
+    #banner {
+        letter-spacing: 1px;
     }
 }
 

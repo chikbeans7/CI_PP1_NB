@@ -99,6 +99,7 @@ footer {
     padding: 1em;
     word-spacing: 1em;
     background-color:rgb(1, 1, 75);
+    clear: both;
 }
 
 footer > a {

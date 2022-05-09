@@ -125,3 +125,17 @@ footer > a {
         height: 250px;
     }
 }
+
+@media screen and (max-width: 840px) {
+    body{
+        font-size: 1.4rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    body{
+        font-size: 1.2rem;
+    }
+}
+
+

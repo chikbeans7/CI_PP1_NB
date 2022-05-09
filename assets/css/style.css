@@ -148,11 +148,21 @@ footer > a {
     }
 
     .information {
-        font-size: 0.8em;
+        font-size: 0.85em;
     }
 
     iframe {
         width: 300px;
         height: 250px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    body {
+        font-size: 1rem;
+    }
+
+    .information {
+        font-size: 0.8em;
     }
 }

@@ -119,4 +119,9 @@ footer > a {
     .information {
         font-size: 1.1em;
     }
+
+    iframe {
+        width: 300px;
+        height: 100px;
+    }
 }

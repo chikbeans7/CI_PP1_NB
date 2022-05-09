@@ -89,6 +89,12 @@ li a:hover, #current {
     list-style-type: circle;
 }
 
+#interests {
+    margin-left: 1em;
+    text-align: left;
+    list-style-type: circle;
+}
+
 footer {
     font-weight: bold;
     width: 100%;
@@ -101,10 +107,6 @@ footer {
 
 footer > a {
     color: white;
-}
-
-#location {
-    float: right;
 }
 
 @media screen and (max-width: 840px) {

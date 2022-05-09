@@ -73,12 +73,12 @@ li a:hover, #current {
     float: right;
 }
 
-#childhood {
+.leftcontent {
     width: 50%;
     float: left;
 }
 
-#interests {
+.rightcontent {
     width: 50%;
     float: right;
 }
@@ -101,6 +101,10 @@ footer {
 
 footer > a {
     color: white;
+}
+
+#location {
+    float: right;
 }
 
 @media screen and (max-width: 390px) {

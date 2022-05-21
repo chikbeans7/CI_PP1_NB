@@ -114,7 +114,6 @@ form {
     border-color: blue;
 }
 label, input {
-    text-align: center;
     display: block;
 }
 @media screen and (max-width: 840px) {

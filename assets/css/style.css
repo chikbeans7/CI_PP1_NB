@@ -97,7 +97,7 @@ li a:hover, #current {
 
 footer {
     font-weight: bold;
-    width: 591.2px;
+    width: inherit;
     text-align: center;
     padding: 1em;
     word-spacing: 1em;

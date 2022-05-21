@@ -109,6 +109,14 @@ footer > a {
     color: white;
 }
 
+form {
+    border-style: solid;
+    border-color: blue;
+}
+label, input {
+    text-align: center;
+    display: block;
+}
 @media screen and (max-width: 840px) {
     body{
         font-size: 1.5rem;

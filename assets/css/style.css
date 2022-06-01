@@ -59,6 +59,7 @@ li a:hover, #current {
 .information {
     text-align: center;
     font-size: 0.8em;
+    clear: both;
 }
 
 #descrip-text {
@@ -117,7 +118,7 @@ label, input {
     display: block;
 }
 input {
-    border: 2px solid red;
+    border: 2px solid black;
     padding: 10px, 12px;
   }
 

@@ -75,14 +75,15 @@ li a:hover, #current {
 }
 
 .leftcontent {
+    border: 10px solid red;
     width: 50%;
     float: left;
 }
 
 .rightcontent {
-    padding-top: 10em;
     width: 50%;
     float: right;
+    border: 10px solid rgb(89, 1, 89);
 }
 
 #facts{

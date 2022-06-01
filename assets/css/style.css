@@ -129,6 +129,12 @@ input {
     color: white;
 }
 
+.video {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
 @media screen and (max-width: 840px) {
     body{
         font-size: 1.5rem;

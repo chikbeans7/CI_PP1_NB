@@ -75,12 +75,22 @@ li a:hover, #current {
 }
 
 .leftcontent {
-    border: 10px solid red;
     width: 50%;
     float: left;
 }
 
 .rightcontent {
+    width: 50%;
+    float: right;
+}
+
+#lefttop {
+    border: 10px solid red;
+    width: 50%;
+    float: left;
+}
+
+#rightbottom {
     width: 50%;
     float: right;
     border: 10px solid rgb(89, 1, 89);

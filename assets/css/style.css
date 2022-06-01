@@ -114,13 +114,20 @@ form {
     border-style: solid;
     border-color: blue;
 }
+
 label, input {
     display: block;
 }
+
 input {
     border: 2px solid black;
     padding: 10px, 12px;
   }
+
+.battles {
+    background-color: brown;
+    color: white;
+}
 
 @media screen and (max-width: 840px) {
     body{

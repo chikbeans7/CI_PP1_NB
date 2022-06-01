@@ -116,12 +116,10 @@ form {
 label, input {
     display: block;
 }
-
-input{
-    border: 4px, red;
-    border-radius: 5px;
-    padding: 3px, 6px;
-}
+input {
+    border: 2px solid red;
+    padding: 10px, 12px;
+  }
 
 @media screen and (max-width: 840px) {
     body{

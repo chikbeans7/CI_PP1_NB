@@ -156,6 +156,11 @@ input {
     font-weight: bold;
 }
 
+.battledescrip {
+    background-color: rgb(1 75 62);
+    color: white;
+}
+
 @media screen and (max-width: 840px) {
     body{
         font-size: 1.5rem;

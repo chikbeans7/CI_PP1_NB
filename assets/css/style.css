@@ -85,7 +85,7 @@ li a:hover, #current {
 }
 
 #lefttop {
-    border: 10px solid red;
+    border: 10px solid rgb(0, 72, 12);
     width: 50%;
     float: left;
 }
@@ -97,11 +97,13 @@ li a:hover, #current {
 }
 
 #leftheader {
-    background: red;
+    background: rgb(0, 72, 12);
+    color: white;
 }
 
 #rightheader {
     background: rgb(89, 1, 89);
+    color: white;
 }
 #facts{
     margin-left: 1em;

@@ -80,6 +80,7 @@ li a:hover, #current {
 }
 
 .rightcontent {
+    padding-top: 10em;
     width: 50%;
     float: right;
 }

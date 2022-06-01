@@ -96,6 +96,13 @@ li a:hover, #current {
     border: 10px solid rgb(89, 1, 89);
 }
 
+#leftheader {
+    background: red;
+}
+
+#rightheader {
+    background: rgb(89, 1, 89);
+}
 #facts{
     margin-left: 1em;
     text-align: left;

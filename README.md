@@ -40,23 +40,19 @@
 
 # Design
 ## Design Choices
-I wanted to make the website feel a bit old fashioned with colors of blue representing part of the Frencg flag. It needs to feel antique and old so that the user can feel like they are going back in time.
-
-## Colour
-For the colour sheme warm brown tones were chosen to match the images on the page and also the colour theme of the actual restaurant. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
+I wanted to make the website feel a bit old fashioned with colors of blue representing part of the French flag. It needs to feel antique and old so that the user can feel like they are going back in time.
 
 ## Fonts
-Pinyon script with cursive as fallback was used for the logo to match the sign outside the restaurant.
-Montserrat was used for the body and Roboto for headings. Both fonts are considered dyslexia friendly.
+I used the lora font for my page as it looks like ancient writing and makes the website have the more historical feel to it.
 
 ## Structure
-The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. The website consists of five separate pages:
+The website is structured so that the user can slowly build from no information about Napoleon to knowing a good amount of knowledge. It starts with a brief descriptipon on the homepage and links to the other pages and what they have to offer. Here are the 4 main pages that the website has:
 
-A homepage with a sections for News and Sunday Meal Offers
-An about page with the About Us and Meet the Chef
-A menu page
-A image gallery with images and video showcasing the general feel of the restaurant
-A contact page with a contact form, a map and information about the bussines section
+- An easy to understand and use nav bar
+- A home page that gives a brief description of Napoleon
+- A page that provides videos of Napoleon in battles
+- A page that provides some easy to digest personal facts about Napoleon
+- A page that provides information to contact, a form and a google maps
 
 # Technologies Used
 Languages
@@ -67,10 +63,4 @@ Bootstrap v5.0
 Git
 GitHub
 Gitpod
-Tinypng
-Paint.NET
-Balsamiq
 Google Fonts
-Adobe Color
-Font Awsome
-Favicon.io

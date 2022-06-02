@@ -161,6 +161,11 @@ input {
     color: white;
 }
 
+#message{
+    padding: 10px 30px;
+    margin: 100px 100px; 
+}
+
 @media screen and (max-width: 840px) {
     body{
         font-size: 1.5rem;

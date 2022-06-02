@@ -161,9 +161,9 @@ input {
     color: white;
 }
 
-#message{
-    padding: 10px 30px;
-    margin: 100px 100px; 
+p.black {
+    background: black;
+    color: white;
 }
 
 @media screen and (max-width: 840px) {

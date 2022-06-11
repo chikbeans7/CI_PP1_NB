@@ -160,7 +160,8 @@ input {
 
 .contactheader{
     font-size: 1em;
-    text-decoration: underline;
+    background-color: rgb(1, 1, 75);
+    color: white;
 }
 
   /* styles for the footer */

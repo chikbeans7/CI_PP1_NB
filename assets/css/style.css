@@ -59,10 +59,15 @@ li a:hover, #current {
 }
 
 /* Styles for content text */
+
 .information {
     text-align: center;
     font-size: 0.8em;
     clear: both;
+}
+
+#mheader {
+    font-size: 0.9em;
 }
 
 #descrip-text {

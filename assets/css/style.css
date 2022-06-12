@@ -153,6 +153,18 @@ input {
     color: white;
 }
 
+#button {
+    padding: 8px 42px;
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+
+#button:hover {
+    background-color: black;
+    color: white;
+}
+
   /* styles for the footer */
 footer {
     font-weight: bold;

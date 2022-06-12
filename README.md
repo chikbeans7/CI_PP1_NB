@@ -55,12 +55,15 @@ The website is structured so that the user can slowly build from no information 
 - A page that provides information to contact, a form and a google maps
 
 # Technologies Used
-Languages
+## Languages
 HTML
-CSS
-Frameworks & Tools
+CSS 
+
+## Frameworks & Tools
 Bootstrap v5.0
 Git
 GitHub
 Gitpod
 Google Fonts
+
+# Features

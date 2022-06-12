@@ -56,14 +56,21 @@ The website is structured so that the user can slowly build from no information 
 
 # Technologies Used
 ## Languages
-HTML
-CSS 
+- HTML
+- CSS 
 
 ## Frameworks & Tools
-Bootstrap v5.0
-Git
-GitHub
-Gitpod
-Google Fonts
+- Bootstrap v5.0
+- Git
+- GitHub
+- Gitpod
+- Google Fonts
 
 # Features
+The website consists of 4 pages and 8 features.
+
+## Banner and nav bar
+- Includes links to landing page (Brief description), Personal history page, Military history page and Contact us page
+- Fully responasive nav bar that also highlights the page that they are currently on and is at the top of every page
+- Users can easily navigate the website using this as it shows them where they are and where they can go next
+![nav](https://user-images.githubusercontent.com/81440285/173217362-5e3d197b-f60c-4034-a5a3-03928651d308.png)

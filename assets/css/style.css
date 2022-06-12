@@ -77,17 +77,6 @@ li a:hover, #current {
     float: right;
 }
 
-/* Styles for floating content left and right */
-.leftcontent {
-    width: 50%;
-    float: left;
-}
-
-.rightcontent {
-    width: 50%;
-    float: right;
-}
-
 /* Styles for page 2 */
 .battles {
     background-color: brown;

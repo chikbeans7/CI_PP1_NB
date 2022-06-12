@@ -104,3 +104,65 @@ The website consists of 4 pages and 8 features.
 ## Google Maps API
 - Allows the user to use google maps on the contact page so that they can locate the business
 ![maps](https://user-images.githubusercontent.com/81440285/ 173218074-f0b6281c-4884-45e6-aa5a-bf496b9c5025.png)
+
+# Validation
+## HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+
+### Page 1
+![htmlpage1](https://user-images.githubusercontent.com/81440285/173222045-71fc17a8-5d86-46df-9715-7e563a46d79c.png)
+
+### Page 2
+![page2html](https://user-images.githubusercontent.com/81440285/173222050-2a755ebd-96e8-4aff-a380-227015c237a0.png)
+
+### Page 3
+![thirdpagehtml](https://user-images.githubusercontent.com/81440285/173222061-cb865036-519d-4452-8b61-f13d6a14eb7d.png)
+
+### Page 4
+![page4html](https://user-images.githubusercontent.com/81440285/173222071-0a820fde-6586-4020-a973-27d23812c4c4.png)
+
+## CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website. No errors were found.
+![validationcss](https://user-images.githubusercontent.com/81440285/173222108-9c8c99f7-bc0b-453b-985b-28c3505ac6f8.png)
+
+## Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with no errors.
+
+### Page 1
+![wavepage1](https://user-images.githubusercontent.com/81440285/173222149-5f64cc4c-c833-4247-b297-73e61d30eadc.png)
+
+### Page 2
+![wavepage2](https://user-images.githubusercontent.com/81440285/173222154-2e474b0e-3aa6-4571-ae6d-244a07064f0a.png)
+
+### Page 3
+![wavepage3](https://user-images.githubusercontent.com/81440285/173222164-f3874e58-9761-4e35-b176-3b005aace015.png)
+
+### Page 4
+![wavepage4](https://user-images.githubusercontent.com/81440285/173222168-ead813e6-7ea3-4023-828a-fb3162f1c67d.png)
+
+## Performance
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website.
+
+### Page 1
+![firstpage2](https://user-images.githubusercontent.com/81440285/173222197-b4c05a0b-7c4e-4b4e-872d-5775d59df057.png)
+
+### Page 2
+![secondpage](https://user-images.githubusercontent.com/81440285/173222203-10a8cad9-29fb-4be1-b3e5-a18a67ad43e2.png)
+
+### Page 3
+![thirdpage](https://user-images.githubusercontent.com/81440285/173222211-3559eb51-2f41-4237-96b2-55353608d7d5.png)
+
+### Page 4
+
+![forthpage](https://user-images.githubusercontent.com/81440285/173222217-a89582b5-929e-49ed-8e96-7281a6338d02.png)
+
+# Credits
+## Media
+- Image on first page was by https://pixabay.com/users/wikiimages-1897/ on https://pixabay.com/
+- Videos on page 3 are by Epic History TV on https://www.youtube.com/channel/UCvPXiKxH-eH9xq-80vpgmKQ
+
+## Code
+- Nav bar was created using the tutorials provided by the Code Insitute
+- Google maps API tutorial was provided by the Univeristy of Maine (https://extension.umaine.edu/plugged-in/technology-marketing-communications/web/tips-for-web-managers/embed-map/)
+- Iframe elements were created and styled using tutorials found on Stack overflow but no code was specifically derived from there
+- The form on page was created and styled using tutorials on W3c schools and was used to add padding and borders to the form elements
